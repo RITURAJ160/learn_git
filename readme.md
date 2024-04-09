@@ -22,3 +22,4 @@ In this repository, you will find step-by-step tutorials, examples, and exercise
 To get started with Git, you will need to install it on your local machine. Follow the instructions provided in the [official Git documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install Git.
 
 Once you have Git installed, you can clone this repository to your local machine using the following command:
+####jai_hind
